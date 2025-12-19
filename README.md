@@ -50,27 +50,27 @@ This project uses:
 
 ### 1. Clone the Repository
 
-```bash
+~~~bash
 git clone https://github.com/AvniKal/HousePricePrediction-ak.git
 cd HousePricePrediction-ak
-
+~~~
 2. Install Dependencies
 Use pip to install required packages:
-
+~~~
 pip install numpy pandas scikit-learn matplotlib seaborn notebook
-
+~~~
 3. Using ch1.py Script
-
+~~~
 python ch1.py
-
+~~~
 
 PROJECT STRUCTURE
-
+~~~
 HousePricePrediction-ak/
 ├── Housing.csv
 ├── HousingCostPrediction.ipynb
 ├── ch1.py
 ├── house.png
 ├── README.md
-
+~~~
 
