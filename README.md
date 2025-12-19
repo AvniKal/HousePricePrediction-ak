@@ -8,7 +8,7 @@ A machine learning project to predict house prices using historical housing data
 
 ## 🔍 Project Overview
 
-Real estate pricing prediction helps stakeholders—homebuyers, agents, investors—make data-driven decisions. This project takes a dataset of housing features (e.g., size, location attributes) and builds a regression model to estimate house prices.
+Real estate pricing prediction helps stakeholders, homebuyers, agents, investors make data driven decisions. This project takes a dataset of housing features (e.g., size, location attributes) and builds a regression model to estimate house prices.
 
 ---
 
@@ -29,7 +29,7 @@ Real estate pricing prediction helps stakeholders—homebuyers, agents, investor
 - 🧹 **Data Preprocessing** – Handle missing values, encode categorical data, and scale features.
 - 📈 **Model Training** – Train regression models to learn housing price relationships.
 - 🎯 **Performance Evaluation** – Use evaluation metrics like RMSE/R² (depending on the approach).
-- 🤖 **Prediction** – Ready-to-use model for estimating house prices on new data.
+- 🤖 **Prediction** – Ready to use model for estimating house prices on new data.
 
 ---
 
@@ -64,7 +64,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
 python ch1.py
 ~~~
 
-PROJECT STRUCTURE
+💡PROJECT STRUCTURE
 ~~~
 HousePricePrediction-ak/
 ├── Housing.csv
